@@ -1,5 +1,5 @@
 public int main(){
-    print("강대혁 바보");
+    print("김정민  바보");
 }
 
 babo ddong gae yam
